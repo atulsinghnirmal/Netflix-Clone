@@ -1,2 +1,3 @@
 # Netflix-Clone
-I am Using to create this project HTML,CSS
+I am used HTML,CSS for this project.
+
